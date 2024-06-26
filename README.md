@@ -6,6 +6,7 @@ You can see it from here: https://github.com/Ahmed2456/scrape-analyze-students-d
 ## updates
 1. fastest scraping
 2. better visualization, instead of just txt file you see beautiful and meaningful charts 
+3. get the rank of a student based on his mark and see students above them
 
 ## installing libraries
 `pip install pandas matplotlib seaborn translate selenium beautifulsoup4`
