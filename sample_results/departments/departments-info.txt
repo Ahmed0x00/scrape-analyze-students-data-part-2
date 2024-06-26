@@ -1,0 +1,64 @@
+========= Data Science Students' data =========
+
+Number of students in Data Science department: 361
+Highest GPA in Data Science department: 3.75
+Highest Seat number in Data Science department: 231051178
+Highest GPA Name in Data Science department: Ali Ezz Ali Alyan Hassan
+Highest Mark in Data Science department: 674
+Average in Data Science department: 2.37
+Number of students with 'Acceptable' rating in Data Science department: 104
+Number of students with 'Weak' rating in Data Science department: 84
+Number of students with 'Very Good' rating in Data Science department: 45
+Number of students with 'Very Weak' rating in Data Science department: 8
+Number of students with 'Good' rating in Data Science department: 110
+Number of students with 'Excellent' rating in Data Science department: 10
+
+
+========= Robotics Students' data =========
+
+Number of students in Robotics department: 226
+Highest GPA in Robotics department: 3.6
+Highest Seat number in Robotics department: 231052135
+Highest GPA Name in Robotics department: Marina Ashraf Anwar Fahmy Qalini
+Highest Mark in Robotics department: 662
+Average in Robotics department: 2.38
+Number of students with 'Acceptable' rating in Robotics department: 74
+Number of students with 'Weak' rating in Robotics department: 48
+Number of students with 'Very Good' rating in Robotics department: 27
+Number of students with 'Very Weak' rating in Robotics department: 2
+Number of students with 'Good' rating in Robotics department: 74
+Number of students with 'Excellent' rating in Robotics department: 1
+
+
+========= Multimedia Students' data =========
+
+Number of students in Multimedia department: 104
+Highest GPA in Multimedia department: 3.8
+Highest Seat number in Multimedia department: 231053104
+Highest GPA Name in Multimedia department: Youssef Sherif Ahmed Sherif Eltouny
+Highest Mark in Multimedia department: 675
+Average in Multimedia department: 2.3
+Number of students with 'Acceptable' rating in Multimedia department: 29
+Number of students with 'Weak' rating in Multimedia department: 21
+Number of students with 'Very Good' rating in Multimedia department: 15
+Number of students with 'Very Weak' rating in Multimedia department: 7
+Number of students with 'Good' rating in Multimedia department: 30
+Number of students with 'Excellent' rating in Multimedia department: 2
+
+
+========= Faculty of CS Students' data =========
+
+Number of students in Faculty of CS department: 691
+Highest GPA in Faculty of CS department: 3.8
+Highest Seat number in Faculty of CS department: 231053104
+Highest GPA Name in Faculty of CS department: Youssef Sherif Ahmed Sherif Eltouny
+Highest Mark in Faculty of CS department: 675
+Average in Faculty of CS department: 2.36
+Number of students with 'Acceptable' rating in Faculty of CS department: 207
+Number of students with 'Weak' rating in Faculty of CS department: 153
+Number of students with 'Very Good' rating in Faculty of CS department: 87
+Number of students with 'Very Weak' rating in Faculty of CS department: 17
+Number of students with 'Good' rating in Faculty of CS department: 214
+Number of students with 'Excellent' rating in Faculty of CS department: 13
+
+

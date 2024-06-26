@@ -1,0 +1,116 @@
+Analyzing Physics marks:
+  Number of students with mark 45-50: 7
+  Number of students with mark 50-55: 40
+  Number of students with mark 60-65: 65
+  Number of students with mark 65-70: 92
+  Number of students with mark 70-75: 114
+  Number of students with mark 75-80: 109
+  Number of students with mark 80-85: 86
+  Number of students with mark 85-95: 98
+  Number of students who Failed: 27
+  Number of students with mark Higher than 95: 10
+  Average mark in Physics: 72
+
+Analyzing Logic Design marks:
+  Number of students with mark 45-50: 8
+  Number of students with mark 50-55: 46
+  Number of students with mark 60-65: 108
+  Number of students with mark 65-70: 101
+  Number of students with mark 70-75: 94
+  Number of students with mark 75-80: 69
+  Number of students with mark 80-85: 60
+  Number of students with mark 85-95: 46
+  Number of students who Failed: 30
+  Number of students with mark Higher than 95: 4
+  Average mark in Logic Design: 68
+
+Analyzing English II marks:
+  Number of students with mark 45-50: 1
+  Number of students with mark 50-55: 16
+  Number of students with mark 60-65: 46
+  Number of students with mark 65-70: 64
+  Number of students with mark 70-75: 89
+  Number of students with mark 75-80: 120
+  Number of students with mark 80-85: 101
+  Number of students with mark 85-95: 167
+  Number of students who Failed: 6
+  Number of students with mark Higher than 95: 29
+  Average mark in English II: 78
+
+Analyzing Programming marks:
+  Number of students with mark 45-50: 2
+  Number of students with mark 50-55: 26
+  Number of students with mark 60-65: 74
+  Number of students with mark 65-70: 71
+  Number of students with mark 70-75: 81
+  Number of students with mark 75-80: 78
+  Number of students with mark 80-85: 56
+  Number of students with mark 85-95: 99
+  Number of students who Failed: 22
+  Number of students with mark Higher than 95: 11
+  Average mark in Programming: 72
+
+Analyzing Statistics and Probability marks:
+  Number of students with mark 45-50: 0
+  Number of students with mark 50-55: 9
+  Number of students with mark 60-65: 27
+  Number of students with mark 65-70: 36
+  Number of students with mark 70-75: 64
+  Number of students with mark 75-80: 88
+  Number of students with mark 80-85: 100
+  Number of students with mark 85-95: 211
+  Number of students who Failed: 0
+  Number of students with mark Higher than 95: 16
+  Average mark in Statistics and Probability: 81
+
+Analyzing Fundamentals of Management marks:
+  Number of students with mark 45-50: 0
+  Number of students with mark 50-55: 9
+  Number of students with mark 60-65: 19
+  Number of students with mark 65-70: 28
+  Number of students with mark 70-75: 53
+  Number of students with mark 75-80: 59
+  Number of students with mark 80-85: 48
+  Number of students with mark 85-95: 108
+  Number of students who Failed: 5
+  Number of students with mark Higher than 95: 24
+  Average mark in Fundamentals of Management: 79
+
+Analyzing Creative Thinking marks:
+  Number of students with mark 45-50: 1
+  Number of students with mark 50-55: 15
+  Number of students with mark 60-65: 33
+  Number of students with mark 65-70: 40
+  Number of students with mark 70-75: 46
+  Number of students with mark 75-80: 48
+  Number of students with mark 80-85: 46
+  Number of students with mark 85-95: 70
+  Number of students who Failed: 5
+  Number of students with mark Higher than 95: 9
+  Average mark in Creative Thinking: 75
+
+Analyzing Introduction to Computers marks:
+  Number of students with mark 45-50: 0
+  Number of students with mark 50-55: 1
+  Number of students with mark 60-65: 0
+  Number of students with mark 65-70: 1
+  Number of students with mark 70-75: 0
+  Number of students with mark 75-80: 0
+  Number of students with mark 80-85: 0
+  Number of students with mark 85-95: 0
+  Number of students who Failed: 0
+  Number of students with mark Higher than 95: 0
+  Average mark in Introduction to Computers: 58
+
+Analyzing Math O marks:
+  Number of students with mark 45-50: 0
+  Number of students with mark 50-55: 0
+  Number of students with mark 60-65: 0
+  Number of students with mark 65-70: 0
+  Number of students with mark 70-75: 0
+  Number of students with mark 75-80: 0
+  Number of students with mark 80-85: 0
+  Number of students with mark 85-95: 0
+  Number of students who Failed: 1
+  Number of students with mark Higher than 95: 0
+  Average mark in Math O: 0

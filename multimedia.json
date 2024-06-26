@@ -1,0 +1,1506 @@
+[
+  {
+    "Seat Number": 231053002,
+    "Name": "Ahmed Hanafi Mousa Abdul Karim",
+    "Marks": {
+      "Physics": 81,
+      "Logic Design": 81,
+      "English II": 86,
+      "Programming": 76,
+      "Statistics and Probability": 88,
+      "Fundamentals of Management": 89
+    },
+    "Full Mark": 501,
+    "GPA": 2.9,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053004,
+    "Name": "Ahmed Adel Abdel Moneim El Gohary",
+    "Marks": {
+      "Physics": 61,
+      "Logic Design": 56,
+      "English II": 69,
+      "Programming": 67,
+      "Fundamentals of Management": 71
+    },
+    "Full Mark": 324,
+    "GPA": 1.98,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053008,
+    "Name": "Afnan Mohammed Amin Saad Al-Suwaifi",
+    "Marks": {
+      "Physics": 56,
+      "Logic Design": 58,
+      "English II": 84,
+      "Programming": 60,
+      "Fundamentals of Management": 74,
+      "Creative Thinking": 64
+    },
+    "Full Mark": 396,
+    "GPA": 2.12,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053016,
+    "Name": "Hazem Mohammed Mohammed Abdullah Abulhasan",
+    "Marks": {
+      "Physics": 78,
+      "Logic Design": 78,
+      "English II": 87,
+      "Programming": 87,
+      "Statistics and Probability": 94,
+      "Creative Thinking": 77
+    },
+    "Full Mark": 501,
+    "GPA": 2.9,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053009,
+    "Name": "Ayat Waleed Mohammed Al-Saeed Khader",
+    "Marks": {
+      "Physics": 80,
+      "Logic Design": 81,
+      "English II": 51,
+      "Programming": 57,
+      "Statistics and Probability": 73,
+      "Fundamentals of Management": 90
+    },
+    "Full Mark": 432,
+    "GPA": 2.39,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053018,
+    "Name": "Hossam Mazhar Abdel Sattar Amin",
+    "Marks": {
+      "Physics": 70,
+      "English II": 70,
+      "Programming": 75,
+      "Statistics and Probability": 85,
+      "Fundamentals of Management": 69
+    },
+    "Full Mark": 369,
+    "GPA": 2.14,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053025,
+    "Name": "Ziad Mohamed Abdel Moneim Moussa",
+    "Marks": {
+      "Physics": 82,
+      "Logic Design": 54,
+      "English II": 78,
+      "Programming": 74,
+      "Statistics and Probability": 86,
+      "Fundamentals of Management": 73
+    },
+    "Full Mark": 447,
+    "GPA": 2.37,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053014,
+    "Name": "Jana Sherif Al-Saeed Mahmoud",
+    "Marks": {
+      "Physics": 99,
+      "Logic Design": 92,
+      "English II": 88,
+      "Programming": 94,
+      "Statistics and Probability": 96,
+      "Fundamentals of Management": 99
+    },
+    "Full Mark": 568,
+    "GPA": 3.52,
+    "Rating": "Excellent"
+  },
+  {
+    "Seat Number": 231053001,
+    "Name": "Ahmed Ashraf Abdulaziz Hegazy",
+    "Marks": {
+      "Physics": 74,
+      "Logic Design": 72,
+      "English II": 85,
+      "Programming": 75,
+      "Statistics and Probability": 88,
+      "Fundamentals of Management": 88
+    },
+    "Full Mark": 482,
+    "GPA": 2.74,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053023,
+    "Name": "Rana Khaled Mohammed Tawfiq",
+    "Marks": {
+      "Physics": 74,
+      "Logic Design": 58,
+      "English II": 83,
+      "Programming": 63,
+      "Fundamentals of Management": 84,
+      "Creative Thinking": 73
+    },
+    "Full Mark": 435,
+    "GPA": 2.52,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053020,
+    "Name": "Mohamed Mustafa Mohamed",
+    "Marks": {
+      "Physics": 55,
+      "Logic Design": 50,
+      "English II": 88,
+      "Statistics and Probability": 75,
+      "Fundamentals of Management": 77
+    },
+    "Full Mark": 401,
+    "GPA": 2.08,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053012,
+    "Name": "Bahi Eid Ibrahim Al Bahi Eid",
+    "Marks": {
+      "Physics": 56,
+      "Logic Design": 42,
+      "English II": 62,
+      "Statistics and Probability": 71
+    },
+    "Full Mark": 281,
+    "GPA": 1.36,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053005,
+    "Name": "Ahmad Mahmoud Mohammad Saleh",
+    "Marks": {
+      "Physics": 85,
+      "Logic Design": 83,
+      "English II": 86,
+      "Programming": 89,
+      "Statistics and Probability": 86,
+      "Creative Thinking": 79
+    },
+    "Full Mark": 508,
+    "GPA": 2.91,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053013,
+    "Name": "Bijad Mohamed Sayed Ahmed Mohamed Qirat",
+    "Marks": {
+      "Physics": 88,
+      "Logic Design": 76,
+      "English II": 99,
+      "Programming": 83,
+      "Fundamentals of Management": 95,
+      "Creative Thinking": 90
+    },
+    "Full Mark": 531,
+    "GPA": 3.01,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053026,
+    "Name": "Sarah Amjad Abdel Aleem Mohamed Mohamedine",
+    "Marks": {
+      "Physics": 78,
+      "Logic Design": 82,
+      "English II": 84,
+      "Programming": 81,
+      "Fundamentals of Management": 82,
+      "Creative Thinking": 88
+    },
+    "Full Mark": 495,
+    "GPA": 2.85,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053007,
+    "Name": "Adham Amir Abdul Hamid Al-Sayed Ali",
+    "Marks": {
+      "Physics": 72,
+      "Logic Design": 60,
+      "English II": 82,
+      "Programming": 63,
+      "Fundamentals of Management": 72
+    },
+    "Full Mark": 349,
+    "GPA": 2.03,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053024,
+    "Name": "Ziad Amr Mohamed Abdel Gawad Mohamed",
+    "Marks": {
+      "Physics": 52,
+      "English II": 60,
+      "Statistics and Probability": 58
+    },
+    "Full Mark": 221,
+    "GPA": 1.08,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053021,
+    "Name": "Khaled Tamer Abdel Moneim Abdel Gawad",
+    "Marks": {
+      "Physics": 73,
+      "Logic Design": 67,
+      "English II": 96,
+      "Programming": 76,
+      "Statistics and Probability": 93,
+      "Creative Thinking": 87
+    },
+    "Full Mark": 492,
+    "GPA": 2.79,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053006,
+    "Name": "Ahmed Yasser Fahmy Qarni",
+    "Marks": {
+      "Physics": 89,
+      "Logic Design": 75,
+      "English II": 93,
+      "Programming": 86,
+      "Fundamentals of Management": 85,
+      "Creative Thinking": 85
+    },
+    "Full Mark": 513,
+    "GPA": 3.25,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053017,
+    "Name": "Habiba Sobhi Abdelwahab Al-Hajj",
+    "Marks": {
+      "Physics": 74,
+      "Logic Design": 68,
+      "English II": 65,
+      "Programming": 51,
+      "Statistics and Probability": 84
+    },
+    "Full Mark": 342,
+    "GPA": 1.8,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053015,
+    "Name": "Hazem Ahmed Abdullah Al-Desouki",
+    "Marks": {
+      "Physics": 73,
+      "Logic Design": 61,
+      "English II": 72,
+      "Programming": 50,
+      "Fundamentals of Management": 72
+    },
+    "Full Mark": 328,
+    "GPA": 1.94,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053019,
+    "Name": "Hossam Nadi Mohamed Ahmed",
+    "Marks": {
+      "Physics": 94,
+      "Logic Design": 87,
+      "English II": 79,
+      "Programming": 92,
+      "Statistics and Probability": 98,
+      "Fundamentals of Management": 85,
+      "Creative Thinking": 86
+    },
+    "Full Mark": 621,
+    "GPA": 3.29,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053027,
+    "Name": "Sarah Mohamed Abdelghani Omar Al-Tantawi",
+    "Marks": {
+      "Physics": 93,
+      "Logic Design": 80,
+      "English II": 92,
+      "Programming": 90,
+      "Fundamentals of Management": 93,
+      "Creative Thinking": 96
+    },
+    "Full Mark": 544,
+    "GPA": 3.35,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053011,
+    "Name": "Ahmed Samir Hussein Abdel Qader",
+    "Marks": {
+      "Physics": 39,
+      "English II": 71,
+      "Statistics and Probability": 64,
+      "Fundamentals of Management": 59
+    },
+    "Full Mark": 283,
+    "GPA": 1.12,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053010,
+    "Name": "A Hassan Mohammed Abdul Aal Omar",
+    "Marks": {
+      "Physics": 70,
+      "Logic Design": 57,
+      "English II": 70,
+      "Programming": 64,
+      "Fundamentals of Management": 62,
+      "Creative Thinking": 57
+    },
+    "Full Mark": 380,
+    "GPA": 2.1,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053028,
+    "Name": "Stephen Emad Lamaa Salib",
+    "Marks": {
+      "Physics": 85,
+      "Logic Design": 73,
+      "English II": 78,
+      "Programming": 81,
+      "Statistics and Probability": 90,
+      "Fundamentals of Management": 75
+    },
+    "Full Mark": 482,
+    "GPA": 2.82,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053030,
+    "Name": "Saifuddin Ahmed Mohammed Ismail",
+    "Marks": {
+      "Physics": 86,
+      "Logic Design": 86,
+      "English II": 94,
+      "Programming": 88,
+      "Statistics and Probability": 89,
+      "Fundamentals of Management": 92,
+      "Creative Thinking": 87
+    },
+    "Full Mark": 622,
+    "GPA": 3.28,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053029,
+    "Name": "Sama Taha Hussein Abu Al-Ala",
+    "Marks": {
+      "Physics": 83,
+      "Logic Design": 71,
+      "English II": 70,
+      "Programming": 74,
+      "Statistics and Probability": 85,
+      "Fundamentals of Management": 78
+    },
+    "Full Mark": 461,
+    "GPA": 2.69,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053032,
+    "Name": "Saif Ali Rajab Ali",
+    "Marks": {
+      "Physics": 61,
+      "Statistics and Probability": 68,
+      "Fundamentals of Management": 77
+    },
+    "Full Mark": 275,
+    "GPA": 1.27,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053033,
+    "Name": "Saif Nadi Mahfouz Abu Ala",
+    "Marks": {
+      "Physics": 81,
+      "Logic Design": 65,
+      "English II": 77,
+      "Programming": 73,
+      "Statistics and Probability": 90,
+      "Creative Thinking": 66
+    },
+    "Full Mark": 452,
+    "GPA": 2.65,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053034,
+    "Name": "Sherif Ashraf Hassan Abdelhalim",
+    "Marks": {
+      "Physics": 54,
+      "English II": 78,
+      "Creative Thinking": 74
+    },
+    "Full Mark": 265,
+    "GPA": 1.22,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053035,
+    "Name": "Sherif Amr Ahmed Ibrahim",
+    "Marks": {
+      "Physics": 74,
+      "Logic Design": 61,
+      "English II": 77,
+      "Programming": 59,
+      "Statistics and Probability": 87,
+      "Fundamentals of Management": 73
+    },
+    "Full Mark": 431,
+    "GPA": 2.23,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053031,
+    "Name": "Saifuddin Hani Abdul Salam Mohammed Khalil",
+    "Marks": {
+      "Physics": 76,
+      "Logic Design": 41,
+      "Programming": 56,
+      "Statistics and Probability": 81,
+      "Fundamentals of Management": 56
+    },
+    "Full Mark": 310,
+    "GPA": 1.79,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053036,
+    "Name": "Shahed Khaled Kamal Abdelkader Mohamed",
+    "Marks": {
+      "Physics": 70,
+      "Logic Design": 75,
+      "English II": 95,
+      "Programming": 87,
+      "Statistics and Probability": 84,
+      "Fundamentals of Management": 93
+    },
+    "Full Mark": 504,
+    "GPA": 3.04,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053039,
+    "Name": "Abdulrahman Ahmed Abdulmubadi Amara",
+    "Marks": {
+      "Physics": 61,
+      "Logic Design": 51,
+      "Statistics and Probability": 70,
+      "Fundamentals of Management": 54
+    },
+    "Full Mark": 286,
+    "GPA": 1.31,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053038,
+    "Name": "Dhai Abdul Hamid Mohammed Mohammed Jibril",
+    "Marks": {
+      "Physics": 70,
+      "Logic Design": 74,
+      "English II": 81,
+      "Programming": 76,
+      "Statistics and Probability": 89,
+      "Creative Thinking": 84
+    },
+    "Full Mark": 474,
+    "GPA": 2.67,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053052,
+    "Name": "Karim Mohamed Farid Ahmed",
+    "Marks": {
+      "Physics": 91,
+      "Logic Design": 46,
+      "English II": 82,
+      "Programming": 93,
+      "Statistics and Probability": 90,
+      "Fundamentals of Management": 90,
+      "Creative Thinking": 86
+    },
+    "Full Mark": 578,
+    "GPA": 2.99,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053044,
+    "Name": "Ali Ibrahim Ali Ali",
+    "Marks": {
+      "Physics": 71,
+      "Logic Design": 37,
+      "Fundamentals of Management": 67,
+      "Creative Thinking": 59
+    },
+    "Full Mark": 284,
+    "GPA": 1.41,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053037,
+    "Name": "Shahad Mamdouh Mohammed Hassan",
+    "Marks": {
+      "Physics": 79,
+      "Logic Design": 69,
+      "English II": 64,
+      "Programming": 77,
+      "Fundamentals of Management": 75,
+      "Creative Thinking": 69
+    },
+    "Full Mark": 433,
+    "GPA": 2.32,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053040,
+    "Name": "Abdul Rahman Al-Sayed Eid Salama Eid",
+    "Marks": {
+      "Physics": 86,
+      "Logic Design": 71,
+      "English II": 77,
+      "Programming": 73,
+      "Statistics and Probability": 92,
+      "Fundamentals of Management": 92
+    },
+    "Full Mark": 491,
+    "GPA": 2.7,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053042,
+    "Name": "Abdullah Hussein Abdullah Abdul Jawad",
+    "Marks": {
+      "Physics": 63,
+      "Logic Design": 64,
+      "English II": 51,
+      "Programming": 27,
+      "Fundamentals of Management": 74,
+      "Creative Thinking": 51
+    },
+    "Full Mark": 330,
+    "GPA": 1.78,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053046,
+    "Name": "Omar Ibrahim Khafaja Omar",
+    "Marks": {
+      "Physics": 66,
+      "Logic Design": 65,
+      "English II": 63,
+      "Programming": 70,
+      "Statistics and Probability": 71,
+      "Fundamentals of Management": 84
+    },
+    "Full Mark": 419,
+    "GPA": 2.22,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053043,
+    "Name": "Aladdin Abdullah Shamil Ahmed Mohammed",
+    "Marks": {
+      "Physics": 92,
+      "Logic Design": 70,
+      "English II": 85,
+      "Programming": 86,
+      "Statistics and Probability": 91,
+      "Fundamentals of Management": 98,
+      "Creative Thinking": 91
+    },
+    "Full Mark": 613,
+    "GPA": 3.35,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053041,
+    "Name": "Abdulrahman Mohammed Hassani Tawfiq",
+    "Marks": {
+      "Physics": 73,
+      "Logic Design": 62,
+      "English II": 69,
+      "Creative Thinking": 56
+    },
+    "Full Mark": 310,
+    "GPA": 1.66,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053045,
+    "Name": "Ali Mustafa Omar Al-Sayed Iraqi",
+    "Marks": {
+      "Physics": 76,
+      "Logic Design": 58,
+      "English II": 79,
+      "Programming": 60,
+      "Fundamentals of Management": 88,
+      "Creative Thinking": 63
+    },
+    "Full Mark": 424,
+    "GPA": 2.4,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053049,
+    "Name": "Omar Mohammed Al-Sayed Al-Sayed Al-Jarwani",
+    "Marks": {
+      "Physics": 87,
+      "Logic Design": 85,
+      "English II": 93,
+      "Programming": 95,
+      "Statistics and Probability": 91,
+      "Fundamentals of Management": 92,
+      "Creative Thinking": 85
+    },
+    "Full Mark": 628,
+    "GPA": 3.37,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053047,
+    "Name": "Omar Ahmed Zaki Sayed Ahmed",
+    "Marks": {
+      "Physics": 63,
+      "Logic Design": 62,
+      "English II": 72,
+      "Programming": 70,
+      "Statistics and Probability": 81,
+      "Fundamentals of Management": 77
+    },
+    "Full Mark": 425,
+    "GPA": 2.3,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053050,
+    "Name": "Faris Rizk Ahmed Ahmed Rizk",
+    "Marks": {
+      "Physics": 56,
+      "Logic Design": 56,
+      "English II": 93,
+      "Programming": 83,
+      "Statistics and Probability": 84,
+      "Fundamentals of Management": 86
+    },
+    "Full Mark": 458,
+    "GPA": 2.4,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053051,
+    "Name": "Faris Marwan Musa Ali",
+    "Marks": {
+      "Physics": 40,
+      "Statistics and Probability": 54
+    },
+    "Full Mark": 117,
+    "GPA": 0.21,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231053048,
+    "Name": "Omar Adel Abdul Azim Abdul Samad",
+    "Marks": {
+      "Physics": 82,
+      "Logic Design": 67,
+      "English II": 74,
+      "Programming": 75,
+      "Statistics and Probability": 88,
+      "Fundamentals of Management": 78
+    },
+    "Full Mark": 464,
+    "GPA": 2.66,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053057,
+    "Name": "Mazen Mohammed Ahmed Abdullah",
+    "Marks": {
+      "Physics": 63,
+      "English II": 65,
+      "Statistics and Probability": 76
+    },
+    "Full Mark": 242,
+    "GPA": 1.17,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053055,
+    "Name": "Mark Amjad Fahim Nashid",
+    "Marks": {
+      "Physics": 68,
+      "Logic Design": 71,
+      "English II": 77,
+      "Programming": 90,
+      "Statistics and Probability": 89,
+      "Creative Thinking": 75
+    },
+    "Full Mark": 470,
+    "GPA": 2.54,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053054,
+    "Name": "Martin Wael Mohareb Saad",
+    "Marks": {
+      "Physics": 79,
+      "Logic Design": 61,
+      "English II": 90,
+      "Programming": 77,
+      "Statistics and Probability": 89,
+      "Fundamentals of Management": 90
+    },
+    "Full Mark": 486,
+    "GPA": 2.94,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053053,
+    "Name": "Cyril completed Edward Wesa the Wise",
+    "Marks": {
+      "Physics": 50,
+      "English II": 69,
+      "Programming": 66,
+      "Fundamentals of Management": 59,
+      "Creative Thinking": 55
+    },
+    "Full Mark": 299,
+    "GPA": 1.52,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053056,
+    "Name": "Maria Mahmoud Ezzat Mahmoud",
+    "Marks": {
+      "Physics": 67,
+      "Logic Design": 90,
+      "English II": 75,
+      "Programming": 79,
+      "Statistics and Probability": 78,
+      "Fundamentals of Management": 72
+    },
+    "Full Mark": 461,
+    "GPA": 2.58,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053058,
+    "Name": "Mazen Hani Ahmed Mohammed Ahmed",
+    "Marks": {
+      "Physics": 57,
+      "Logic Design": 51,
+      "English II": 78,
+      "Programming": 61,
+      "Statistics and Probability": 64,
+      "Fundamentals of Management": 71
+    },
+    "Full Mark": 382,
+    "GPA": 2.04,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053062,
+    "Name": "Mohammed Ibrahim Al-Desouki Kamal Al-Din",
+    "Marks": {
+      "Physics": 62,
+      "Logic Design": 53,
+      "English II": 91,
+      "Programming": 58,
+      "Statistics and Probability": 87,
+      "Fundamentals of Management": 78
+    },
+    "Full Mark": 429,
+    "GPA": 2.25,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053059,
+    "Name": "Mazen Hany Mohamed Sayed Eid",
+    "Marks": {
+      "Physics": 77,
+      "Logic Design": 75,
+      "English II": 75,
+      "Programming": 83,
+      "Statistics and Probability": 85,
+      "Creative Thinking": 69
+    },
+    "Full Mark": 464,
+    "GPA": 2.63,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053060,
+    "Name": "Mafi Refaat Makram Aziz",
+    "Marks": {
+      "Physics": 82,
+      "Logic Design": 82,
+      "English II": 89,
+      "Programming": 80,
+      "Statistics and Probability": 90,
+      "Fundamentals of Management": 86
+    },
+    "Full Mark": 509,
+    "GPA": 3.04,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053065,
+    "Name": "Mohamed Osama Mohamed Mohamed Ahmed Ali",
+    "Marks": {
+      "Physics": 52,
+      "Logic Design": 67,
+      "English II": 82,
+      "Programming": 79,
+      "Statistics and Probability": 76,
+      "Fundamentals of Management": 86
+    },
+    "Full Mark": 442,
+    "GPA": 2.28,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053063,
+    "Name": "Mohamed Ibrahim Omar Abdel Nabi",
+    "Marks": {
+      "Physics": 82,
+      "Logic Design": 73,
+      "English II": 79,
+      "Programming": 88,
+      "Statistics and Probability": 89
+    },
+    "Full Mark": 411,
+    "GPA": 2.91,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053064,
+    "Name": "Mohamed Ahmed Mohamed Ahmed Khater",
+    "Marks": {
+      "Physics": 77,
+      "Logic Design": 74,
+      "English II": 88,
+      "Programming": 84,
+      "Statistics and Probability": 89,
+      "Fundamentals of Management": 79
+    },
+    "Full Mark": 491,
+    "GPA": 2.82,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053066,
+    "Name": "Mohamed Ashraf Mohamed Abdel Moneim",
+    "Marks": {
+      "Physics": 66,
+      "Logic Design": 55,
+      "English II": 79,
+      "Programming": 78,
+      "Fundamentals of Management": 67,
+      "Creative Thinking": 67
+    },
+    "Full Mark": 412,
+    "GPA": 2.27,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053067,
+    "Name": "Mohamed Hassan Ibrahim Hassan Allam",
+    "Marks": {
+      "Physics": 80,
+      "Logic Design": 88,
+      "English II": 98,
+      "Programming": 96,
+      "Statistics and Probability": 87,
+      "Fundamentals of Management": 85,
+      "Creative Thinking": 86
+    },
+    "Full Mark": 620,
+    "GPA": 3.36,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053071,
+    "Name": "Mohamed Sayed Mohamed Abd Rabbo Mohamed",
+    "Marks": {
+      "Physics": 58,
+      "Logic Design": 60,
+      "English II": 80,
+      "Statistics and Probability": 90,
+      "Creative Thinking": 64
+    },
+    "Full Mark": 402,
+    "GPA": 2.11,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053069,
+    "Name": "Mohammed Rami Mohammed Abdul Majeed Al-Saadani",
+    "Marks": {
+      "Physics": 57,
+      "Logic Design": 69,
+      "English II": 80,
+      "Programming": 68,
+      "Statistics and Probability": 86,
+      "Fundamentals of Management": 75
+    },
+    "Full Mark": 435,
+    "GPA": 2.3,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053076,
+    "Name": "Mohamed Waleed Mohamed Mostafa Dowidar",
+    "Marks": {
+      "Physics": 63,
+      "Logic Design": 62,
+      "English II": 88,
+      "Programming": 71,
+      "Fundamentals of Management": 79,
+      "Creative Thinking": 84
+    },
+    "Full Mark": 447,
+    "GPA": 2.37,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053075,
+    "Name": "Mohammed Hisham Fathi Mahmoud Al-Toukhi",
+    "Marks": {
+      "Physics": 80,
+      "Logic Design": 57,
+      "English II": 90,
+      "Programming": 64,
+      "Fundamentals of Management": 71,
+      "Creative Thinking": 68
+    },
+    "Full Mark": 430,
+    "GPA": 2.38,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053068,
+    "Name": "Mohamed Hamada Farghali Foley Mohamed",
+    "Marks": {
+      "Physics": 95,
+      "Logic Design": 82,
+      "English II": 94,
+      "Programming": 98,
+      "Fundamentals of Management": 96,
+      "Creative Thinking": 94
+    },
+    "Full Mark": 559,
+    "GPA": 3.43,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053070,
+    "Name": "Mohammed Saeed Kamal Saleh",
+    "Marks": {
+      "Physics": 56,
+      "Logic Design": 73,
+      "English II": 88,
+      "Programming": 67,
+      "Fundamentals of Management": 78,
+      "Creative Thinking": 75
+    },
+    "Full Mark": 437,
+    "GPA": 2.33,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053077,
+    "Name": "Mahmoud Ahmed Mohamed Darwish",
+    "Marks": {
+      "Physics": 40,
+      "English II": 72,
+      "Fundamentals of Management": 62
+    },
+    "Full Mark": 196,
+    "GPA": 0.96,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231053074,
+    "Name": "Mohamed Mustafa Mohamed",
+    "Marks": {
+      "Physics": 41,
+      "English II": 53,
+      "Fundamentals of Management": 64
+    },
+    "Full Mark": 188,
+    "GPA": 0.61,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231053078,
+    "Name": "Mahmoud Ashraf Sayed Mohammed Othman",
+    "Marks": {
+      "English II": 65,
+      "Statistics and Probability": 59,
+      "Creative Thinking": 52
+    },
+    "Full Mark": 215,
+    "GPA": 1.0,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053073,
+    "Name": "Mohamed Mohsen Mohamed Sadiq Ahmed",
+    "Marks": {
+      "Physics": 77,
+      "Logic Design": 60,
+      "English II": 79,
+      "Programming": 90,
+      "Fundamentals of Management": 94,
+      "Creative Thinking": 86
+    },
+    "Full Mark": 486,
+    "GPA": 2.8,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053079,
+    "Name": "Mahmoud Jamal Talat Ezzedine",
+    "Marks": {
+      "Physics": 91,
+      "Logic Design": 81,
+      "English II": 89,
+      "Programming": 91,
+      "Statistics and Probability": 92,
+      "Fundamentals of Management": 86,
+      "Creative Thinking": 79
+    },
+    "Full Mark": 609,
+    "GPA": 3.19,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053080,
+    "Name": "Mahmoud Essam Zaki Abdel Karim",
+    "Marks": {
+      "Physics": 66,
+      "Logic Design": 68,
+      "English II": 71,
+      "Fundamentals of Management": 78
+    },
+    "Full Mark": 323,
+    "GPA": 1.66,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053083,
+    "Name": "Mustafa Ahmed Abdel Moncef Ibrahim Ghanem",
+    "Marks": {
+      "Physics": 72,
+      "Logic Design": 72,
+      "English II": 74,
+      "Programming": 79,
+      "Statistics and Probability": 89,
+      "Creative Thinking": 69
+    },
+    "Full Mark": 455,
+    "GPA": 2.56,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053082,
+    "Name": "Maryam Montasser Abdel Fattah Mohamed",
+    "Marks": {
+      "Physics": 61,
+      "Logic Design": 82,
+      "English II": 57,
+      "Statistics and Probability": 91
+    },
+    "Full Mark": 355,
+    "GPA": 2.01,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053088,
+    "Name": "Owned by Ayman Mahmoud Mohamed",
+    "Marks": {
+      "Physics": 83,
+      "Logic Design": 69,
+      "English II": 78,
+      "Programming": 80,
+      "Statistics and Probability": 89,
+      "Creative Thinking": 79
+    },
+    "Full Mark": 478,
+    "GPA": 2.74,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053086,
+    "Name": "Mustafa Bakhit Ali Bakhit",
+    "Marks": {
+      "Physics": 50,
+      "English II": 41,
+      "Fundamentals of Management": 52
+    },
+    "Full Mark": 173,
+    "GPA": 0.48,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231053084,
+    "Name": "Mustafa Ahmed Farouk Abdel Moneim",
+    "Marks": {
+      "Physics": 77,
+      "Logic Design": 81,
+      "English II": 94,
+      "Programming": 86,
+      "Statistics and Probability": 87,
+      "Creative Thinking": 73
+    },
+    "Full Mark": 498,
+    "GPA": 2.85,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053085,
+    "Name": "Mustafa Ahmed Lotfy Ibrahim",
+    "Marks": {
+      "Physics": 21,
+      "English II": 65,
+      "Fundamentals of Management": 57
+    },
+    "Full Mark": 158,
+    "GPA": 0.9,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231053089,
+    "Name": "Malak Hussein Ramadan Owais",
+    "Marks": {
+      "Physics": 59,
+      "Logic Design": 72,
+      "English II": 60,
+      "Programming": 80,
+      "Statistics and Probability": 87,
+      "Fundamentals of Management": 73
+    },
+    "Full Mark": 431,
+    "GPA": 2.33,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053081,
+    "Name": "Mahmoud Waleed Mahmoud Makki",
+    "Marks": {
+      "Physics": 88,
+      "Logic Design": 77,
+      "English II": 89,
+      "Programming": 86,
+      "Statistics and Probability": 88,
+      "Fundamentals of Management": 86,
+      "Creative Thinking": 75
+    },
+    "Full Mark": 589,
+    "GPA": 3.08,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053090,
+    "Name": "Malak Yasser Atallah Mubarak",
+    "Marks": {
+      "Physics": 71,
+      "Logic Design": 59,
+      "English II": 73,
+      "Programming": 73,
+      "Statistics and Probability": 80,
+      "Creative Thinking": 68
+    },
+    "Full Mark": 424,
+    "GPA": 2.22,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053091,
+    "Name": "From him: Ahmed Abdelkader Sayed",
+    "Marks": {
+      "Physics": 69,
+      "Logic Design": 83,
+      "English II": 78,
+      "Programming": 86,
+      "Statistics and Probability": 83,
+      "Creative Thinking": 73
+    },
+    "Full Mark": 472,
+    "GPA": 2.52,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053087,
+    "Name": "Mustafa Mohammed Refaat Khalaf",
+    "Marks": {
+      "Physics": 73,
+      "Logic Design": 70,
+      "English II": 70,
+      "Programming": 61,
+      "Fundamentals of Management": 82
+    },
+    "Full Mark": 356,
+    "GPA": 2.21,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053093,
+    "Name": "Mina Maher Lewis Said",
+    "Marks": {
+      "Physics": 58,
+      "Logic Design": 57,
+      "English II": 73,
+      "Programming": 73,
+      "Fundamentals of Management": 68
+    },
+    "Full Mark": 329,
+    "GPA": 2.0,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053092,
+    "Name": "Minh Mamdouh Amin Ismail",
+    "Marks": {
+      "Physics": 69,
+      "Logic Design": 58,
+      "English II": 89,
+      "Programming": 77,
+      "Statistics and Probability": 81,
+      "Fundamentals of Management": 80
+    },
+    "Full Mark": 454,
+    "GPA": 2.49,
+    "Rating": "Acceptable"
+  },
+  {
+    "Seat Number": 231053094,
+    "Name": "Noureddine Sayed Ahmed Mahmoud",
+    "Marks": {
+      "Physics": 76,
+      "Logic Design": 73,
+      "English II": 96,
+      "Programming": 77,
+      "Statistics and Probability": 92,
+      "Fundamentals of Management": 84
+    },
+    "Full Mark": 498,
+    "GPA": 3.05,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053096,
+    "Name": "Nayirah Qassem Sayed Ahmed",
+    "Marks": {
+      "Physics": 66,
+      "English II": 70,
+      "Programming": 66,
+      "Statistics and Probability": 70,
+      "Fundamentals of Management": 83
+    },
+    "Full Mark": 355,
+    "GPA": 1.92,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053101,
+    "Name": "Yousef Ahmed Hood Ali",
+    "Marks": {
+      "Physics": 57,
+      "Logic Design": 51,
+      "English II": 53,
+      "Programming": 44,
+      "Statistics and Probability": 64,
+      "Fundamentals of Management": 55
+    },
+    "Full Mark": 324,
+    "GPA": 1.64,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053098,
+    "Name": "Haven Sameh Nabil Maani",
+    "Marks": {
+      "Physics": 77,
+      "Logic Design": 63,
+      "English II": 87,
+      "Programming": 78,
+      "Statistics and Probability": 90,
+      "Creative Thinking": 79
+    },
+    "Full Mark": 474,
+    "GPA": 2.62,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053095,
+    "Name": "Nuran Hassan Mahmoud Abdo Nassar",
+    "Marks": {
+      "Physics": 80,
+      "Logic Design": 62,
+      "English II": 90,
+      "Programming": 71,
+      "Statistics and Probability": 92,
+      "Fundamentals of Management": 84
+    },
+    "Full Mark": 479,
+    "GPA": 2.9,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053100,
+    "Name": "Yessa Raafat Kamel Abdel Nour",
+    "Marks": {
+      "Physics": 67,
+      "Logic Design": 69,
+      "English II": 78,
+      "Programming": 73,
+      "Statistics and Probability": 92,
+      "Creative Thinking": 83
+    },
+    "Full Mark": 462,
+    "GPA": 2.55,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053099,
+    "Name": "Yahya Khaled Zidan Hussein Adam",
+    "Marks": {
+      "Physics": 81,
+      "Logic Design": 70,
+      "English II": 92,
+      "Programming": 72,
+      "Statistics and Probability": 88,
+      "Fundamentals of Management": 86
+    },
+    "Full Mark": 489,
+    "GPA": 2.98,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053097,
+    "Name": "Hashim Mohammed Hashim Mohammed Ahmed",
+    "Marks": {
+      "Physics": 46,
+      "English II": 35,
+      "Statistics and Probability": 70
+    },
+    "Full Mark": 183,
+    "GPA": 0.52,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231053102,
+    "Name": "Youssef Ayman Ali Abdel Hafez",
+    "Marks": {
+      "Physics": 42,
+      "Logic Design": 36,
+      "English II": 78,
+      "Programming": 40,
+      "Statistics and Probability": 65,
+      "Fundamentals of Management": 50
+    },
+    "Full Mark": 311,
+    "GPA": 1.61,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053103,
+    "Name": "Yousef Sharif Ahmed Sayed Al-Zaini",
+    "Marks": {
+      "Physics": 43,
+      "English II": 64,
+      "Fundamentals of Management": 55
+    },
+    "Full Mark": 186,
+    "GPA": 0.78,
+    "Rating": "Very Weak"
+  },
+  {
+    "Seat Number": 231053104,
+    "Name": "Youssef Sherif Ahmed Sherif Eltouny",
+    "Marks": {
+      "Physics": 96,
+      "Logic Design": 91,
+      "English II": 99,
+      "Programming": 96,
+      "Statistics and Probability": 97,
+      "Fundamentals of Management": 99,
+      "Creative Thinking": 97
+    },
+    "Full Mark": 675,
+    "GPA": 3.8,
+    "Rating": "Excellent"
+  },
+  {
+    "Seat Number": 231053106,
+    "Name": "Yousef Mohammed Abdul Salam Mohammed Ahmed Bushnaq",
+    "Marks": {
+      "Physics": 93,
+      "Logic Design": 92,
+      "English II": 97,
+      "Programming": 95,
+      "Statistics and Probability": 94,
+      "Fundamentals of Management": 96,
+      "Creative Thinking": 97
+    },
+    "Full Mark": 664,
+    "GPA": 3.48,
+    "Rating": "Very Good"
+  },
+  {
+    "Seat Number": 231053105,
+    "Name": "Yousef Abdullah Ahmed Abdullah",
+    "Marks": {
+      "Physics": 41,
+      "English II": 64,
+      "Statistics and Probability": 51,
+      "Fundamentals of Management": 68
+    },
+    "Full Mark": 254,
+    "GPA": 1.04,
+    "Rating": "Weak"
+  },
+  {
+    "Seat Number": 231053107,
+    "Name": "Youssef Nabil Abdul Masih Atallah",
+    "Marks": {
+      "Physics": 79,
+      "Logic Design": 81,
+      "English II": 79,
+      "Programming": 79,
+      "Statistics and Probability": 87,
+      "Creative Thinking": 86
+    },
+    "Full Mark": 491,
+    "GPA": 2.65,
+    "Rating": "Good"
+  },
+  {
+    "Seat Number": 231053108,
+    "Name": "Youssef Yasser Helmy Hassan Al-Shaer",
+    "Marks": {
+      "Physics": 72,
+      "Logic Design": 59,
+      "English II": 94,
+      "Programming": 57,
+      "Statistics and Probability": 78,
+      "Fundamentals of Management": 82
+    },
+    "Full Mark": 442,
+    "GPA": 2.46,
+    "Rating": "Acceptable"
+  }
+]
