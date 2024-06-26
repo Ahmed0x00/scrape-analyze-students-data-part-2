@@ -1,6 +1,6 @@
 # scrape-analyze-students-data-part-2
 Hello! This is part 2 of my previous data analysis project: scrape-analyze-students-data
-Which was created to scrape my faculty students' marks and anaylze it
+Which was created to scrape my faculty students' marks and analyze it
 You can see it from here: https://github.com/Ahmed2456/scrape-analyze-students-data
 
 ## updates
